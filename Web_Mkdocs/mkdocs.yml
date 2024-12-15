@@ -1,0 +1,12 @@
+site_name: 'Documentació de les tasques'
+theme:
+  name: 'mkdocs'
+
+nav:
+  - Inici: index.md
+  - Trabajos EDD:
+    - Pasos creación juego: edd/Creación_Juego.md
+    - Tabla diversos lenguajes: edd/Tabla.md
+    - Efecto bola de nieve: edd/Bola_Nieve.md
+  - Trabajo LMI:
+    - Características LMI: lmi/carac_lmi.md
